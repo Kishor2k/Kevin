@@ -50,30 +50,26 @@
           origin:'left',
           opacity:0,
           distance:'100px',
-          viewFactor: 0.3,
-          reset:true
+          viewFactor: 0.2,
         });
         sr.reveal('.slide-left',{
           duration:2000,
           origin:'right',
           opacity:0,
           distance:'100px',
-          viewFactor: 0.3,
-          reset:true
+          viewFactor: 0.2,
         });
          sr.reveal('.slide-bottom',{
           duration:2000,
           origin:'bottom',
           opacity:0,
           distance:'100px',
-          viewFactor: 0.3,
-          reset:true
+          viewFactor: 0.2,
         });
           sr.reveal('.slide-top',{
           duration:2000,
           origin:'top',
           opacity:0,
           distance:'100px',
-          viewFactor: 0.3,
-          reset:true
+          viewFactor: 0.2,
         });
